@@ -9,7 +9,7 @@ public class Day11Part1 {
 
     public static void main(String[] args) {
         List<List<Integer>> monkeys = new ArrayList<>();
-        Integer[] inspectCount = {0,0,0,0,0,0,0,0,};
+        Integer[] inspectCount = {0,0,0,0,0,0,0,0};
 
 
         List<Integer> monkey0 = new ArrayList<>();
